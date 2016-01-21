@@ -1,0 +1,9 @@
+name: KrookedBall
+main: MM.krookedball.KrookedBall
+version: 1
+
+commands:
+  party:
+    description: party command.
+    usage: /<command>
+    permission: krookedball.party
